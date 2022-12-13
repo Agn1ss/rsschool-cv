@@ -26,3 +26,7 @@ void MvDis(unsigned int Arr[], unsigned int n)
     Arr[j]=0;
 }
 -----------------------------
+## Languages:
+* Belorussian - Intermediate
+* Russian - Native
+-----------------------------
